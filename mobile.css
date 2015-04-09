@@ -1,0 +1,185 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* Begin Mobile CSS */
+
+nav {
+    height: 40px;
+    width: 360px;
+    background-color: rgb(172, 211, 115);
+}
+
+.logo {
+    display: inline-block;
+    padding: 8px 0px 8px 30px;
+}
+
+.toggle {
+    display: inline-block;
+    padding: 15px;
+}
+
+.togSquare {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(137, 168, 92);
+    display: inline-block;
+    float: right;
+}
+
+header {
+    height: 350px;
+    width: 360px;
+    background-color: rgb(154, 189, 103);
+}
+
+.heading,
+.subheading {
+    color: rgb(247, 247, 247);
+    text-align: center;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 125px 34px 13px 34px;
+}
+
+.subheading {
+    font-family: "Droid Serif", serif;
+    font-size: 13px;
+    font-style: italic;
+}
