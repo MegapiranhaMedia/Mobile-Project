@@ -139,6 +139,7 @@ nav {
     height: 40px;
     width: 360px;
     background-color: rgb(172, 211, 115);
+    position: fixed;
 }
 
 .logo {
@@ -182,4 +183,153 @@ header {
     font-family: "Droid Serif", serif;
     font-size: 13px;
     font-style: italic;
+}
+
+.silouette {
+    margin-top: 55px;
+}
+
+.arrow {
+    display: inline-block;
+    margin-top: 26px;
+    text-align: center;
+}
+
+.about {
+    height: 774px;
+    width: 360px;
+    background-color: rgb(247, 247, 247);
+}
+
+.phone {
+    margin: 44px 141px 46px 141px;
+    display: inline-block;
+}
+
+.man {
+    margin: 0px 13px 26px 29px;
+    display: inline-block;
+    position: absolute;
+}
+
+.who {
+    display: inline-block;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    color: rgb(69, 69, 69);
+    margin: 0px 197px 0px 67px;
+    position: relative;
+    vertical-align: center;
+    white-space: nowrap;
+    padding: 6px 0px;
+}
+
+.about p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 13px;
+    color: rgb(69, 69, 69);
+    margin: 26px 0px 0px 30px;
+    height: 54px;
+}
+
+.about button {
+    height: 28px;
+    width: 89px;
+    border: 1px solid rgb(172, 211, 115);
+    background-color: transparent;
+    font-family: "Droid Serif", serif;
+    font-size: 11px;
+    font-style: italic;
+    color: rgb(172, 211, 115);
+    margin: 28px 0px 0px 30px;
+}
+
+.video {
+    display: inline-block;
+    height: 260px;
+    width: 360px;
+    background-image: url(CollegeBackMobile.png);
+    background-repeat: no-repeat;
+    margin-top: 47px;
+}
+
+.services {
+    height: 499px;
+    width: 360px;
+    background-color: rgb(247, 247, 247);
+}
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+
+.serviceHeading {
+    text-align: center;
+    margin: 43px 125px 0px 126px;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.serviceHeading h1:first-of-type {
+    color: rgb(69, 69, 69);
+}
+
+.serviceHeading h1:last-of-type {
+    color: rgb(172, 211, 115);
+}
+
+.quote {
+    text-align: center;
+    font-family: "DroidSerif", serif;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.separator {
+    display: inline-block;
+    margin: 14px 142px 0px 142px;
+}
+
+.services h2 {
+    font-weight: 600;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    color: rgb(172, 211, 115);
+    margin-left: 101px;
+}
+
+.services h2:first-of-type {
+    margin-top: 37px;
+}
+
+.services h2:nth-of-type(2) {
+    margin-top: 35px;
+}
+
+.services p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 13px;
+    color: rgb(69, 69, 69);
+    text-align: left;
+    margin-left: 101px;
+    margin-top: 13px;
+}
+
+.stamp {
+    display: inline-block;
+    margin: 37px 24px 0px 41px;
+    position: absolute;
+}
+
+.services button {
+    height: 28px;
+    width: 89px;
+    border: 1px solid rgb(172, 211, 115);
+    background-color: transparent;
+    font-family: "Droid Serif", serif;
+    font-size: 11px;
+    font-style: italic;
+    color: rgb(172, 211, 115);
 }

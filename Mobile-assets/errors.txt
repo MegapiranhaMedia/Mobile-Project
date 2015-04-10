@@ -1,0 +1,4 @@
+[Thu Apr 09 2015 20:20:11 GMT-0500 (CDT)] Layer "smashmagazine.com": Unsupported extension: com
+[Thu Apr 09 2015 20:20:11 GMT-0500 (CDT)] Layer "example@ipsum.com": Unsupported extension: com
+[Thu Apr 09 2015 20:20:11 GMT-0500 (CDT)] Layer "Thus much I thought proper to tell you in relation to yourself,": Expected end of input but "," found.
+[Thu Apr 09 2015 20:20:11 GMT-0500 (CDT)] Layer "shotercarlos@gmail.com": Unsupported extension: com
